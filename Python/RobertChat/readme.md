@@ -14,7 +14,8 @@
 Just start the `robertchat.exe` by:
 -	double-clicking the application file
 -	or selecting the application file and hitting `[ENTER]`
--	No Python installation is required for the ready-to-use EXE.
+
+No Python installation is required for the ready-to-use EXE.
 
 ## Testing older versions of 'RobertChat'
 To test older versions of 'RobertChat' you need:
