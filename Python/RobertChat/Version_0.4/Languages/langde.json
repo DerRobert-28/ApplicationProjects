@@ -1,0 +1,21 @@
+{
+	"debug.error": "Fehler in Modul '{}', Zeilennummer {}: {}",
+	"help.append": "Aktuelle Konversation zum Verlauf hinzufügen.",
+	"help.available": "Verfügbare Befehle:",
+	"help.help": "Hilfe zu {} anzeigen.",
+	"help.list": "Alle Gesprächsantworten auflisten.",
+	"help.load": "Letzten Verlauf laden (aktuelle Konversation wird überschrieben).",
+	"help.merge": "Letzten Verlauf in aktuelle Konversation laden.",
+	"help.quit": "{} beenden.",
+	"help.save":"Konversation speichern (Verlauf wird überschrieben).",
+	"help.version": "Zeige die aktuelle {} Version.",
+	"hint.enjoy": "Viel Spaß!",
+	"hint.fullscreen": "Drücke [ALT+ENTER], um zwischen Fenster- und Vollbildmodus zu wechseln.",
+	"hint.greeting": "Tipp einfach etwas ein und drücke ENTER um mit mir zu chatten.",
+	"info.nohistory": "Kein Verlauf vorhanden! :-(",
+	"success.append": "Konversation wurde erfolgreich gespeichert! :-)",
+	"success.load": "Konversation wurde erfolgreich geladen! :-)",
+	"success.merge": "Verlauf wurde erfolgreich mit Konversation zusammengeführt! :-)",
+	"success.save": "Konversation wurde erfolgreich gespeichert! :-)",
+	"": ""
+}
